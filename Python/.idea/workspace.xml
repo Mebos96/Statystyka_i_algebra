@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87a21b38-a735-4439-b92e-7c23e151a62b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_statystyki_opisowe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -149,7 +144,8 @@
       <workItem from="1603993715595" duration="83000" />
       <workItem from="1603998756016" duration="870000" />
       <workItem from="1603999739325" duration="8127000" />
-      <workItem from="1604337289231" duration="3760000" />
+      <workItem from="1604337289231" duration="3959000" />
+      <workItem from="1604936101108" duration="188000" />
     </task>
     <servers />
   </component>
