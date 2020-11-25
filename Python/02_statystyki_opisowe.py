@@ -1,6 +1,6 @@
 import pandas as pd
 from datetime import date
-
+import numpy as np
 today = date.today()
 
 # Exercise 1
@@ -39,13 +39,13 @@ dfs2 = dfs1[['nr faktury', 'Data Faktury', 'NIP', 'wartosc', 'miesiac', 'kwartal
 
 # Exercise 4
 
-# ndf = dfs.loc[dfs['Data Faktury'].dt.year == 2007]['wartosc']
-# print("Min: ",np.min(ndf))
-# print("Max: ",np.max(ndf))
-# print("Median: ",np.median(ndf))
-# print("Moda: ",max(set(ndf.values.tolist()), key=ndf.values.tolist().count))
-# print("Kurtosis: ",ndf.kurtosis())
-# print("Skewnes: ",ndf.skew())
+ndf = dfs.loc[dfs['Data Faktury'].dt.year == 2007]['wartosc']
+print("Min: ",np.min(ndf))
+print("Max: ",np.max(ndf))
+print("Median: ",np.median(ndf))
+print("Moda: ",max(set(ndf.values.tolist()), key=ndf.values.tolist().count))
+print("Kurtosis: ",ndf.kurtosis())
+print("Skewnes: ",ndf.skew())
 
 # Exercise 5
 # ndf1 = dfs.loc[dfs['płatność'] == 'gotowka']['wartosc']

@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87a21b38-a735-4439-b92e-7c23e151a62b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_statystyki_opisowe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_statystyki_opisowe.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_statystyki_opisowe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R/.Rproj.user/F67F612F/sources/per/t/0BE2AE58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R/.Rproj.user/F67F612F/sources/per/t/0BE2AE58-contents" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R/.Rproj.user/F67F612F/sources/prop/D8275A37" beforeDir="false" afterPath="$PROJECT_DIR$/../R/.Rproj.user/F67F612F/sources/prop/D8275A37" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../R/.Rproj.user/F67F612F/sources/prop/INDEX" beforeDir="false" afterPath="$PROJECT_DIR$/../R/.Rproj.user/F67F612F/sources/prop/INDEX" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Data Security" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -54,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01_statystyki_opisowe">
+  <component name="RunManager" selected="Python.03_statystyki_opisowe">
     <configuration name="01_statystyki_opisowe" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,6 +78,44 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_statystyki_opisowe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_statystyki_opisowe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_statystyki_opisowe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_statystyki_opisowe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_statystyki_opisowe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -123,6 +168,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_statystyki_opisowe" />
+        <item itemvalue="Python.02_statystyki_opisowe" />
         <item itemvalue="Python.01_statystyki_opisowe" />
         <item itemvalue="Python.Hello" />
       </list>
@@ -146,6 +193,7 @@
       <workItem from="1603999739325" duration="8127000" />
       <workItem from="1604337289231" duration="3959000" />
       <workItem from="1604936101108" duration="188000" />
+      <workItem from="1606336743709" duration="377000" />
     </task>
     <servers />
   </component>
@@ -166,7 +214,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python$01_statystyki_opisowe.coverage" NAME="01_statystyki_opisowe Coverage Results" MODIFIED="1604340873998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$01_statystyki_opisowe.coverage" NAME="01_statystyki_opisowe Coverage Results" MODIFIED="1606336855561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1602613138271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Python$Hello.coverage" NAME="Hello Coverage Results" MODIFIED="1603998888271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
